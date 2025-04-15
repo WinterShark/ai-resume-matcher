@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+__pycache__/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# PyCharm project files
+.idea/
+
+# Python bytecode
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit sessions
+*.csv
+*.dat
+
+# Other temporary files
+.DS_Store
